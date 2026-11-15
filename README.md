@@ -1,5 +1,5 @@
 # gist_604b_assignment2
-QGIS tutorial assignment
+GIST 604B Assignment 2: QGIS Desktop GIS Projects
 
 ## Complete the Following Tutorials
 1. Making a Map (https://www.qgistutorials.com/en/docs/3/making_a_map.html)
